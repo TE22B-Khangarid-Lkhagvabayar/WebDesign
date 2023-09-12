@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+}
+.rubrik{
+    background-color: yellow;
+    text-align: center;
+}
+body{
+    background-image: url("./img/showcase.jpg");
+}
+.rubrikDiv{
+    text-align: center;
+}
+
+.divClass{
+    border:2px black solid;
+    background-color: grey;
+}
+
+div{
+    ruby-merge: ;
+}
+
+.divBild{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+
+/* 
+    använd merge för att divsen ska omformas 
+    använd url för bilder och andra filer
+    bilden ska vara i css och inte både i html och css
+    Skriv solid i box scripten i css    
+ */
